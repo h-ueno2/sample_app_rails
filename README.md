@@ -32,10 +32,10 @@ $ rails test
 ```
 
 テストが無事に通ったら、Railsサーバーを立ち上げる準備が整っているはずです。
-
+vvvv
 ```
 $ rails server
 ```
 
-詳しくは、[*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
+詳しくは、[*Ruby on Rails チュートリbvvvvvvvvvvvvvvvvvvvvvアル*](https://railstutorial.jp/)
 を参考にしてください。
